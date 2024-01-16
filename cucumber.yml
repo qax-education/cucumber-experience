@@ -1,0 +1,1 @@
+default: --publish-quiet --format html --out=log/report.html
