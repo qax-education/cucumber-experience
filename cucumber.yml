@@ -1,1 +1,1 @@
-default: --publish-quiet --format html --out=log/report.html
+default: --publish-quiet -f progress -f html -o logs/report.html

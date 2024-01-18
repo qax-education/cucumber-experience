@@ -18,9 +18,8 @@ Cenario: Iniciar a compra de um café
         | delivery | R$ 10,00        |
     Quando inicio a compra desse item
     Então devo ver a página de Checkout com os detalhes do produto
-        E o valor total da compra deve ser de "R$ 19,91"
+        E o valor total da compra deve ser de "R$ 19,99"
 
-@temp
 Cenário: Café indisponível
 
     Dado que estou na página principal da Starbugs
